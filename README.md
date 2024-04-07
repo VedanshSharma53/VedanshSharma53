@@ -1,6 +1,3 @@
-# VedanshSharma53
-[![MasterHead](https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/e675f5c2-624b-4efd-b82f-99e8a6ed968b/AI_20230215_new%20module_1200x580.jpg)](svedansh0302@gmail.com)
-
 <h1 align="center">Hi 👋, I'm Vedansh Sharma</h1>
 <h3 align="center">Unleashing possibilities through AI and ML – where curiosity meets innovation</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg"/>
