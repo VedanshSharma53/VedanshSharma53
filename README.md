@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **svedansh0302@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SP9w7NrdE5HZ0kQ4boAV-IGBfY1XCJty/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sV-2rhQYCmszhU_a1EEqFaSHxPOuWwPB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
