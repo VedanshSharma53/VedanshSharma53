@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **svedansh0302@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sV-2rhQYCmszhU_a1EEqFaSHxPOuWwPB/view?usp=sharing)
+- 📄 Know about my experiences [Portfolio](https://vedanshsharma53.github.io/Vedansh-Sharma-Website/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
