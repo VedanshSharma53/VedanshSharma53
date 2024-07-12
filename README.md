@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VedanshSharma53&label=Profile%20views&color=0e75b6&style=flat" alt="VedanshSharma53" /> </p>
 
-- 🔭 I’m currently working as **Web Development Intern**
+- 🔭 I’m currently working as **Artificial Intelligence Inten**
 
 - 🌱 I’m currently working on **MongoDB, Express.js**
 
