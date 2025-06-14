@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hi there, I'm Vedansh Sharma </h1>
+# 👋 Hi there, I'm Vedansh Sharma
+
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+Web+Development+Enthusiast;MERN+Stack+Developer;Always+Learning+New+Technologies)
@@ -11,7 +12,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding GIF" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Vedansh Sharma" width="400" src="./IMG_1893.jpg"/>
 
 - 🎓 **2nd Year Computer Science Student** passionate about technology
 - 🤖 Currently working as an **Artificial Intelligence Intern**
@@ -20,6 +21,8 @@
 - 💼 Seeking **Software Engineer Intern** opportunities
 - 📧 Reach me at: **svedansh0302@gmail.com**
 - 🌐 Check out my work: **[Portfolio](https://vedanshsharma.works)**
+
+<br clear="both"/>
 
 ---
 
