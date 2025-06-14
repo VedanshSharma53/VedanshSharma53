@@ -1,39 +1,103 @@
-<h1 align="center">Hi 👋, I'm Vedansh Sharma</h1>
-<h3 align="center">2nd Year Computer Science student who finds technology interesting</h3>
-<img align="right" alt="Coding" width="400" src="./IMG_1893.jpg"/>
+<h1 align="center">👋 Hi there, I'm Vedansh Sharma </h1>
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+Web+Development+Enthusiast;MERN+Stack+Developer;Always+Learning+New+Technologies)
+  
+  <img src="https://komarev.com/ghpvc/?username=VedanshSharma53&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+  
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VedanshSharma53&label=Profile%20views&color=0e75b6&style=flat" alt="VedanshSharma53" /> </p>
+---
 
-- 🔭 I’m currently working as **Artificial Intelligence Inten**
+## 🚀 About Me
 
-- 🌱 I’m currently working on **MongoDB, Express.js**
+<img align="right" alt="Coding GIF" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
+- 🎓 **2nd Year Computer Science Student** passionate about technology
+- 🤖 Currently working as an **Artificial Intelligence Intern**
+- 🌱 Building projects with **MongoDB & Express.js**
+- 👥 Open to collaborate on **MERN Stack Projects**
+- 💼 Seeking **Software Engineer Intern** opportunities
+- 📧 Reach me at: **svedansh0302@gmail.com**
+- 🌐 Check out my work: **[Portfolio](https://vedanshsharma.works)**
 
-- 🤝 I’m looking for help with **Software Engineer Intern position**
+---
 
-- 📫 How to reach me **svedansh0302@gmail.com**
+## 🛠️ Tech Stack
 
-- 📄 Know about my experiences [Portfolio](https://vedanshsharma.works)
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vedansh-sharmaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vedansh-sharmaa/" height="30" width="40" /></a>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VedanshSharma53&show_icons=true&locale=en&layout=compact" alt="VedanshSharma53" /></p>
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VedanshSharma53&show_icons=true&locale=en" alt="VedanshSharma53" /></p>
+</div>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VedanshSharma53" alt="GitHub Streak" /></a>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VedanshSharma53&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedanshSharma53&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedanshSharma53&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const vedansh = {
+    currentRole: "AI Intern",
+    currentlyLearning: ["MongoDB", "Express.js", "Machine Learning"],
+    lookingFor: "Software Engineer Intern opportunities",
+    collaboration: "MERN Stack Projects",
+    hobbies: ["Coding", "Tech Exploration", "Problem Solving"]
+};
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedansh-sharmaa/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://vedanshsharma.works)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svedansh0302@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  
+  **Thanks for visiting! 😊**
+  
+  ⭐️ **From [VedanshSharma53](https://github.com/VedanshSharma53)**
+  
+</div>
