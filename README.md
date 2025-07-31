@@ -14,8 +14,8 @@
 
 <img align="right" alt="Vedansh Sharma" width="400" src="./IMG_1893.jpg"/>
 
-- 🎓 **2nd Year Computer Science Student** passionate about technology
-- 🤖 Currently working as an **Artificial Intelligence Intern**
+- 🎓 **3nd Year Computer Science Student** passionate about technology
+- 🤖 Currently working as an **Software Development Intern**
 - 🌱 Building projects with **MongoDB & Express.js**
 - 👥 Open to collaborate on **MERN Stack Projects**
 - 💼 Seeking **Software Engineer Intern** opportunities
