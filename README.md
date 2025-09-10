@@ -2,9 +2,10 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+Web+Development+Enthusiast;MERN+Stack+Developer;Always+Learning+New+Technologies)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;SDE+Intern;MERN+Stack+Developer;AI+%26+Web+Development+Enthusiast;Always+Learning+New+Technologies)
   
-  <img src="https://komarev.com/ghpvc/?username=VedanshSharma53&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+  <!-- Updated Profile Views Badge Color -->
+  <img src="https://komarev.com/ghpvc/?username=VedanshSharma53&label=Profile%20views&color=000000&style=for-the-badge" alt="Profile Views" />
   
 </div>
 
@@ -14,13 +15,13 @@
 
 <img align="right" alt="Vedansh Sharma" width="400" src="./IMG_1893.jpg"/>
 
-- 🎓 **3nd Year Computer Science Student** passionate about technology
-- 🤖 Currently working as an **Software Development Intern**
-- 🌱 Building projects with **MongoDB & Express.js**
-- 👥 Open to collaborate on **MERN Stack Projects**
-- 💼 Seeking **Software Engineer Intern** opportunities
-- 📧 Reach me at: **svedansh0302@gmail.com**
-- 🌐 Check out my work: **[Portfolio](https://vedanshsharma.works)**
+- 🎓 **3rd Year Computer Science Student** passionate about technology  
+- 💻 Currently working as an **SDE Intern**  
+- 🌱 Building projects with **MongoDB & Express.js**  
+- 👥 Open to collaborate on **MERN Stack Projects**  
+- 💼 Seeking **Software Engineer Intern** opportunities  
+- 📧 Reach me at: **svedansh0302@gmail.com**  
+- 🌐 Check out my work: **[Portfolio](https://vedanshsharma.works)**  
 
 <br clear="both"/>
 
@@ -71,7 +72,7 @@
 
 ```javascript
 const vedansh = {
-    currentRole: "AI Intern",
+    currentRole: "SDE Intern",
     currentlyLearning: ["MongoDB", "Express.js", "Machine Learning"],
     lookingFor: "Software Engineer Intern opportunities",
     collaboration: "MERN Stack Projects",
