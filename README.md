@@ -59,11 +59,9 @@
 
 <div align="center">
 
-![Vedansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedanshSharma53&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=VedanshSharma53&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedanshSharma53&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=VedanshSharma53&theme=tokyonight&hide_border=true)
 
 </div>
 
