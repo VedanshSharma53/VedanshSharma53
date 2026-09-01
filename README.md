@@ -20,7 +20,7 @@
 - 🤝 Open to collaboration on **full-stack or AI projects**
 - 🔍 Exploring **Web Performance** and **System Design**
 - 📧 **svedansh0302@gmail.com**
-- 🌐 **[Portfolio](https://vedanshsharma.works)**
+- 🌐 **[Portfolio](https://vedanshsharma.me)**
 
 <br clear="both"/>
 
